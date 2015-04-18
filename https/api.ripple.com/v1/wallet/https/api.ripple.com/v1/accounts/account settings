@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "settings": {
+    "account": "rf1BiGeXwwQoi8Z2ueFYTEXSwuJYfV2Jpn",
+    "transfer_rate": 1004999999,
+    "password_spent": false,
+    "require_destination_tag": true,
+    "require_authorization": false,
+    "disallow_xrp": true,
+    "disable_master": false,
+    "no_freeze": false,
+    "global_freeze": false,
+    "default_ripple": true,
+    "transaction_sequence": "330",
+    "email_hash": "98B4375E1D753E5B91627516F6D70977",
+    "wallet_locator": "",
+    "wallet_size": "",
+    "message_key": "0000000000000000000000070000000300",
+    "domain": "mduo13.com",
+    "signers": ""
+  }
+}
