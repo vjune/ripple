@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "ledger": 12937037,
+  "validated": true,
+  "balances": [
+    {
+      "value": "-11.0301",
+      "currency": "USD",
+      "counterparty": "ra5nK24KXen9AHvsdFTKHSANinZseWnPcX"
+    },
+    {
+      "value": "0.0001",
+      "currency": "USD",
+      "counterparty": "rMwjYedjc7qqtKYVLiAccJSmCwih4LnE2q"
+    },
+    {
+      "value": "0",
+      "currency": "USD",
+      "counterparty": "rweYz56rfmQ98cAdRaeTxQS9wVMGnrdsFp"
+    },
+    {
+      "value": "0",
+      "currency": "USD",
+      "counterparty": "rsA2LpzuawewSBQXkiju3YQTMzW13pAAdW"
+    },
+    {
+      "value": "0",
+      "currency": "USD",
+      "counterparty": "rvYAfWj5gh67oV6fW32ZzP3Aw4Eubs59B"
+    }
+  ]
+}
